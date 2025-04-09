@@ -19,18 +19,18 @@
   <parent>
     <groupId>org.sonatype.nexus.plugins</groupId>
     <artifactId>nexus-plugins</artifactId>
-    <version>3.42.0-01</version>
+    <version>3.78.2-04</version>
   </parent>
 
   <artifactId>nexus-repository-puppet</artifactId>
-  <version>0.1.16</version>
+  <version>0.1.17</version>
   <packaging>bundle</packaging>
 
   <inceptionYear>2018</inceptionYear>
 
   <scm>
     <developerConnection>scm:git:git@github.com:sonatype-nexus-community/nexus-repository-puppet.git</developerConnection>
-    <tag>nexus-repository-puppet-0.1.16</tag>
+    <tag>nexus-repository-puppet-0.1.17</tag>
   </scm>
   <distributionManagement>
     <snapshotRepository>
